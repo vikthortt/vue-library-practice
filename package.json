@@ -1,5 +1,5 @@
 {
-  "name": "library-example",
+  "name": "@vikthortt/vue-library-practice",
   "version": "1.0.0",
   "description": "",
   "main": "dist/library-example.ssr.js",
