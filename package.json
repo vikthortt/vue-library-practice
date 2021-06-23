@@ -49,5 +49,11 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "https://github.com/vikthortt/vue-library-practice"
   }
 }
