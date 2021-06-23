@@ -1,6 +1,6 @@
 {
   "name": "@vikthortt/vue-library-practice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/library-example.ssr.js",
   "browser": "dist/library-example.esm.js",
@@ -51,7 +51,7 @@
     "node": ">=12"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "url": "https://github.com/vikthortt/vue-library-practice"
